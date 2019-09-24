@@ -1,0 +1,34 @@
+{
+  "records": [
+    {
+      "id": "enggke_",
+      "date": "2019-9-23",
+      "goods": "耳机",
+      "price": "￥78"
+    },
+    {
+      "id": "N9oBhRt",
+      "date": "2019-9-23",
+      "goods": "衣服",
+      "price": "￥99"
+    },
+    {
+      "date": "2019-9-23",
+      "goods": "演唱会门票",
+      "price": "￥980",
+      "id": "-OvxQJF"
+    },
+    {
+      "id": "OmqVQ9N",
+      "date": "2019-9-24",
+      "goods": "本子",
+      "price": "￥7"
+    },
+    {
+      "date": "2019-9-24",
+      "goods": "生日会",
+      "price": "￥1500",
+      "id": "Z8_c7JL"
+    }
+  ]
+}

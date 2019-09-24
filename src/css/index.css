@@ -1,0 +1,68 @@
+.app{
+    margin:50px auto;
+    width: 80%;
+}
+.table-tittle,.form-title{
+    font-weight: bold;
+}
+.mytable{
+    float: right;
+    width: 70%;
+    height: 300px;
+    overflow: scroll;
+}
+.form{
+    float: left;
+    width: 28%;
+    position: relative;
+}
+.btn{
+    position:absolute;
+    right: 0px;
+}
+.recordsTittle{
+    margin-left:150px;
+    margin-top: 50px;
+}
+.td_del_btn,.td_edit_btn{
+    width: 160px;
+}
+/* .td_edit_btn{
+    width: 200px;
+} */
+/* .td_edit_btn::after,.td_del_btn::after{
+    content: "";
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+} */
+.delete{
+    box-sizing: border-box;
+    position: relative;
+    left:-55px;
+    background-color:rgba(224, 57, 57, 0.767);
+    border: none;
+}
+.cancel{
+    box-sizing: border-box;
+    position: relative;
+    background-color:rgba(224, 57, 57, 0.767);
+    border: none;
+}
+.edit{
+    box-sizing: border-box;
+    position: relative;
+    left:-70px;
+    border: none;
+}
+.confirm{
+    box-sizing: border-box;
+    position: relative;
+    right:5px;
+    border: none;
+}
+/* .edit_form{
+    width:250px !important;
+    padding: 5px !important;
+    margin-right: 15px !important;
+} */
